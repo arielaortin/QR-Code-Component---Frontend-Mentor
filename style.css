@@ -13,14 +13,14 @@ main{
     background-color: white;
     padding: 1%;
     text-align: center;
-    border-radius: 20px;
+    border-radius: 16px;
     max-width: 22%;
 }
 
 
 img{
     width: 21vw;
-    border-radius: 20px;
+    border-radius: 14px;
 }
 
 
@@ -37,11 +37,11 @@ img{
 }
 h1{
     font-weight:bolder;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 p{
     font-weight:500;
     color: gray;
-    font-size: 20px;
+    font-size: 14px;
 }
